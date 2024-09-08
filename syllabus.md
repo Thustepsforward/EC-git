@@ -1,5 +1,7 @@
 # CS 432/532, Fall 2024 Syllabus
 
+9/8/2024
+
 [Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs432-websci/public-fall24/raw/main/syllabus.pdf)
 
 ## Course Overview
