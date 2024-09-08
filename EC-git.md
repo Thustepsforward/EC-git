@@ -1,5 +1,9 @@
 # Extra Credit - Git, GitHub
 
+Thu Do 
+
+CS532
+
 Git is a version control system for tracking changes in source code, used in the popular [GitHub](https://github.com/) code hosting platform.
 
 ## Instructions
